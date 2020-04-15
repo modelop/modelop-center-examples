@@ -1,0 +1,9 @@
+{ 
+  "type": "record",
+  "name": "email", 
+  "fields":[ 
+    {"name": "id", "type": "int"},
+    { "name": "content", "type": "string"},
+    {"name": "prediction", "type": "int"}
+ ] 
+}
